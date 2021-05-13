@@ -1,0 +1,2 @@
+# mysql_db
+mysql_db 主要是python操作mysql方法的一些封装，可以使用原生sql也可以使用orm的一些便捷特性，对django，flask普通脚本文件均可适用
